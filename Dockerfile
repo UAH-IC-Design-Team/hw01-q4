@@ -4,6 +4,6 @@ COPY . /app
 
 WORKDIR /app
 
-# Billy Bob Jones was here!
-# Hahaha! See ya suckers!
+ENTRYPOINT ["python", "src/some_app.py"]
+
 
