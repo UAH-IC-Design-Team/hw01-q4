@@ -4,6 +4,4 @@ COPY . /app
 
 WORKDIR /app
 
-# Billy Bob Jones was here!
-# Hahaha! See ya suckers!
-
+FROM alpine:3.17
