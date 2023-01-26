@@ -1,3 +1,5 @@
 .DS_Store
 some_app
 
+*.buid_products
+*.build_products
