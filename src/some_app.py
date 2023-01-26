@@ -17,5 +17,5 @@ print("\n\nHello!")
 print("This is a raondom application\n")
 print("It creates some build product files\n")
 print("and here is a list of files in the current directory\n")
-#print(os.listdir("."))
+print(os.listdir("."))
 
